@@ -11,7 +11,7 @@ body {background-image: url("week3/bg.jpg"); background-repeat: no-repeat; backg
 <p align="center">
 <br>
 <font color="006400", size="60", face="Courier"><b>Ecolution</b></font>
-<br> <br>
+<br><br>
 <font color="ADFF2F",size="12", face="Courier"><b>Lasallian Advocates for Mother Earth</b></font>
 <br>
 <font color="ADFF2F",size="12", face="Courier"><b>Since 2021</b></font>
