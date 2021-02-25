@@ -23,7 +23,7 @@
     <font color="ADFF2F", size="5", face="Courier"><b><i>(Click here)</i></b></font>
     </a>
   <br><br>
-  <img src="MATH - PERFORMANCE TASK DESIGN.png", length="250"></img>
+  <img src="MATH - PERFORMANCE TASK DESIGN.png", width="250"></img>
   <br><br><br><br>
   <font color="006400",size="2", face="Courier"><b>A Group 8 Project in TLE 9</b></font>
 
