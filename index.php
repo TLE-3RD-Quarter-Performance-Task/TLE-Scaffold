@@ -18,7 +18,7 @@
   <font color="ADFF2F", size="2", face="Courier"><b>Since 2021</b></font>
   <br><br>
   <a href="https://youtu.be/MV4PNpAKGgc">
-    <font color="006400", size="3", face="Courier"><i>HOPE Video Advocacy</i></font>
+    <font color="006400", size="5", face="Courier"><b><i>HOPE Video Advocacy</i></b></font>
     </a>
   <br><br><br><br>
   <font color="006400",size="2", face="Courier"><b>A Group 8 Project in TLE 9</b></font>
