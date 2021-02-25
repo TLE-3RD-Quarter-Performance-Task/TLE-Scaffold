@@ -39,7 +39,7 @@
   </font>
   <br><br><br><br>
 <p align="center">
-  <font color="006400", size="2", face="Courier">
+  <font color="006400", size="4", face="Courier">
     <b>
       A Group 8 Collaborative Project in TLE and MATH 9
       <br>
