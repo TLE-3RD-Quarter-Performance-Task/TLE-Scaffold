@@ -13,11 +13,13 @@
   <br><br>
   <font color="006400", size="60", face="Courier"><b>Ecolution</b></font>
   <br><br>
-  <font color="ADFF2F",size="12", face="Courier"><b>Lasallian Advocates for Mother Earth</b></font>
+  <font color="ADFF2F", size="12", face="Courier"><b>Lasallian Advocates for Mother Earth</b></font>
   <br>
-  <font color="ADFF2F",size="12", face="Courier"><b>Since 2021</b></font>
+  <font color="ADFF2F", size="12", face="Courier"><b>Since 2021</b></font>
   <br><br>
-  <a href="https://youtu.be/MV4PNpAKGgc">HOPE Video Advocacy</a>
+  <a href="https://youtu.be/MV4PNpAKGgc">
+    <font color="006400", size="12", face="Courier"><i>HOPE Video Advocacy</i></font>
+    </a>
   <br><br><br><br>
   <font color="006400",size="2", face="Courier"><b>A Group 8 Project in TLE 9</b></font>
 
