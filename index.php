@@ -7,9 +7,9 @@
   <style> 
     body {background-image: url("week3/bg.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;}
     </style>
-    <br><br><br><br><br><br>
+    <br><br><br><br><br>
 <p align="center">
-  <img src="week3/logo.png", width="210", length="210"></img>
+  <img src="week3/logo.png", width="250", length="250"></img>
     <br><br>
   <font color="006400", size="7", face="Courier"><b>Ecolution</b></font>
     <br>
