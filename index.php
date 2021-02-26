@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="shortcut icon" type="image/x-icon" href="week3/logo.png" />
     <title> Ecolution </title> 
     </head>
 <frameset cols="20%,80%", frameborder="NO">
