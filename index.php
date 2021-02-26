@@ -19,7 +19,7 @@
     <br><br><br>
   <font color="006400", size="6", face="Courier"><b>HOPE Video Advocacy:</b></font>
     <br>
-  <embed src="https://youtu.be/MV4PNpAKGgc"></embed>
+  <embed src="https://youtu.be/embed/MV4PNpAKGgc"></embed>
     <br>
   <font color="006400", size="6", face="Courier"><b>YouTube Link:</b></font>
   <a href="https://youtu.be/MV4PNpAKGgc">
