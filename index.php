@@ -25,9 +25,9 @@
     <br><br><br>
   <font color="006400", size="6", face="Courier"><b>Music Links:</b></font>
     <br>
-  <audio src="Masdan Mo Ang Kapaligiran(MP3_160K).mp3", type="audio/mp3"></audio>
+  <embed src="Masdan Mo Ang Kapaligiran(MP3_160K).mp3", type="audio/mp3"></embed>
     <br>
-  <audio src="Alapaap(MP3_160K).mp3", type="audio/mp3"></audio>
+  <embed src="Alapaap(MP3_160K).mp3", type="audio/mp3"></embed>
     <br><br><br>
   <img src="MATH - PERFORMANCE TASK DESIGN.png", width="400"></img>
     <br><br><br>
