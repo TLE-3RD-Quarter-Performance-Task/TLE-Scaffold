@@ -37,6 +37,20 @@
     <br><br>
     If we learn to lift everything and do the work by doing good, great things will happen at the right time, at the right moment, at the right place, and at the right person. In the middle of this pandemic, hope is important to persevere because it gives us courage to see the brighter side of every difficulties that come. May this be a reminder for us to keep going no matter what whatever shortcomings come to hinder us. Let's be hopeful, always.
   </font>
+  <br><br><br>
+  <font color="006400", size="6", face="Courier"><b>OTHER VIDEO LINKS:</b></font>
+  <br>
+  <a href="https://youtu.be/8Z1eMy2FoX4">
+    <font color="ADFF2F", size="5", face="Courier"><b><i>Alive | CANADA 4K</i></b></font>
+  </a>
+  <br>
+  <a href="https://youtu.be/yOWhEY9awc4">
+    <font color="ADFF2F", size="5", face="Courier"><b><i>HOPE (Christian Inspirational & Motivational Video)</i></b></font>
+  </a>
+  <br>
+  <a href="https://youtu.be/rLY174n_KWA">
+    <font color="ADFF2F", size="5", face="Courier"><b><i>COVID-19 FILM: A Message of Hope (Inspirational Video)</i></b></font>
+  </a>
   <br><br><br><br>
 <p align="center">
   <font color="006400", size="4", face="Courier">
