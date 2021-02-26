@@ -17,15 +17,18 @@
     <br>
   <font color="ADFF2F", size="4", face="Courier"><b>Since 2021</b></font>
     <br><br><br>
-  <font color="006400", size="6", face="Courier"><b>HOPE Video Advocacy Link:</b></font>
+  <font color="006400", size="6", face="Courier"><b>HOPE Video Advocacy:</b></font>
     <br>
+  <embed src="https://youtu.be/MV4PNpAKGgc"></embed>
+    <br>
+  <font color="006400", size="6", face="Courier"><b>YouTube Link:</b></font>
   <a href="https://youtu.be/MV4PNpAKGgc">
     <font color="ADFF2F", size="5", face="Courier"><b><i>(Click here)</i></b></font>
     </a>
     <br><br><br>
   <font color="006400", size="6", face="Courier"><b>Music Links:</b></font>
     <br>
-  <embed src="Masdan Mo Ang Kapaligiran(MP3_160K).mp3", type="audio/mp3"></embed>
+  <embed src="Masdan Mo Ang Kapaligiran(MP3_160K).mp3"></embed>
     <br>
   <embed src="Alapaap(MP3_160K).mp3", type="audio/mp3"></embed>
     <br><br><br>
